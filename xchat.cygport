@@ -29,6 +29,8 @@ PATCH_URI="
 	2.8.8-plugins-dll.patch
 	2.8.8-plugins-no-undefined.patch
 	2.8.8-vpath.patch
+	2.8.8-glib.patch
+	2.8.8-openssl.patch
 "
 
 DIFF_EXCLUDES="inline_pngs.h *.pm.h"
